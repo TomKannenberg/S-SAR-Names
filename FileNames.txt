@@ -23890,4 +23890,5 @@ Resource/Audio/AAELists/BHH.axml
 Resource/Audio/AAELists/SME.axml
 Resource/Audio/AAELists/SMH.axml
 Resource/Audio/Tracks/EVENTS.xml
+Resource/Audio/AAELists/DEZ.axml
 __END__OF__FILE__
